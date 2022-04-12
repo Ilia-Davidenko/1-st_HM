@@ -1,10 +1,10 @@
 ﻿using System;
 using static System.Console;
 
-WriteLine("Введите первое число");
-int x = Convert.ToInt32(ReadLine());
-WriteLine("Введите второе число");
-int y = Convert.ToInt32(ReadLine());
+int x = new Random().Next(0, 999);
+WriteLine($"Первое число {x}");
+int y = new Random().Next(0, 999);
+WriteLine($"Второе число {y}");
 
 if (x > y)
 {
