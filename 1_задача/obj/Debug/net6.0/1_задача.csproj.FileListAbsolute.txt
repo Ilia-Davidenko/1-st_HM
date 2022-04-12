@@ -1,0 +1,15 @@
+/Users/smile/Desktop/ДЗ 1 семинар/1_задача/bin/Debug/net6.0/1_задача
+/Users/smile/Desktop/ДЗ 1 семинар/1_задача/bin/Debug/net6.0/1_задача.deps.json
+/Users/smile/Desktop/ДЗ 1 семинар/1_задача/bin/Debug/net6.0/1_задача.runtimeconfig.json
+/Users/smile/Desktop/ДЗ 1 семинар/1_задача/bin/Debug/net6.0/1_задача.dll
+/Users/smile/Desktop/ДЗ 1 семинар/1_задача/bin/Debug/net6.0/1_задача.pdb
+/Users/smile/Desktop/ДЗ 1 семинар/1_задача/obj/Debug/net6.0/1_задача.csproj.AssemblyReference.cache
+/Users/smile/Desktop/ДЗ 1 семинар/1_задача/obj/Debug/net6.0/1_задача.GeneratedMSBuildEditorConfig.editorconfig
+/Users/smile/Desktop/ДЗ 1 семинар/1_задача/obj/Debug/net6.0/1_задача.AssemblyInfoInputs.cache
+/Users/smile/Desktop/ДЗ 1 семинар/1_задача/obj/Debug/net6.0/1_задача.AssemblyInfo.cs
+/Users/smile/Desktop/ДЗ 1 семинар/1_задача/obj/Debug/net6.0/1_задача.csproj.CoreCompileInputs.cache
+/Users/smile/Desktop/ДЗ 1 семинар/1_задача/obj/Debug/net6.0/1_задача.dll
+/Users/smile/Desktop/ДЗ 1 семинар/1_задача/obj/Debug/net6.0/refint/1_задача.dll
+/Users/smile/Desktop/ДЗ 1 семинар/1_задача/obj/Debug/net6.0/1_задача.pdb
+/Users/smile/Desktop/ДЗ 1 семинар/1_задача/obj/Debug/net6.0/1_задача.genruntimeconfig.cache
+/Users/smile/Desktop/ДЗ 1 семинар/1_задача/obj/Debug/net6.0/ref/1_задача.dll
